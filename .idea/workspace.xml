@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3defcab-75ca-4bd6-9fac-c6cf464b55f5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SXR35YTHRy8m0JJTH8DLj1GbCF" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.15.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day20" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\qianduan\four\houtai12\my-project\src\assets" />
+      <recent name="E:\qianduan\four\houtai12\my-project\static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\qianduan\four\houtai12\my-project\static" />
+      <recent name="E:\qianduan\four\houtai12" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="post.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="post.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.post.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3defcab-75ca-4bd6-9fac-c6cf464b55f5" name="Default Changelist" comment="" />
+      <created>1571707752010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571707752010</updated>
+      <workItem from="1571707756026" duration="26625000" />
+      <workItem from="1571791010432" duration="39786000" />
+      <workItem from="1571876617963" duration="37726000" />
+      <workItem from="1571964477481" duration="1047000" />
+      <workItem from="1572006967332" duration="3979000" />
+      <workItem from="1572148704972" duration="15000" />
+      <workItem from="1572171778444" duration="1438000" />
+      <workItem from="1572362040137" duration="246000" />
+      <workItem from="1572394062966" duration="431000" />
+      <workItem from="1572779756773" duration="610000" />
+      <workItem from="1572827786081" duration="7000" />
+      <workItem from="1572850474538" duration="1045000" />
+      <workItem from="1572858177425" duration="3108000" />
+      <workItem from="1572866184841" duration="5743000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
